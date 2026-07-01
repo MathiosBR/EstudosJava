@@ -1,0 +1,3 @@
+Array tem tamanho fixo, é estático.
+
+Definindo um array: int[] a = new int[tam];
