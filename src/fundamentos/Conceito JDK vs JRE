@@ -1,0 +1,13 @@
+Ao executar um projeto .java é feito um processo de compilação que gera um
+ arquivo .class.
+Com isso, a temos a diferença entre JRE e JDK.
+JRE é Java Runtime Enviroment, enquanto JDK é Java Development Kit.
+O JDK é usado por desenvolvedores para criar aplicações. O JRE é para
+os usuários, que irão rodar as aplicações desenvolvidas no JDK.
+
+Temos também o JVM que é Java Virtual Machine. A JVM consegue compreender
+.java que gera um arquivo .class, ambos contém o conceito de ByteCode.
+Outras máquinas não entendem .class, mas entendem ByteCode, sendo necessário
+interpretar um ByteCode de outra máquina para poder compreender.
+Sendo popularizado pela linguagem Java, podendo possível codar apenas uma vez
+e rodar em qualquer máquina, esse é o jargão.
