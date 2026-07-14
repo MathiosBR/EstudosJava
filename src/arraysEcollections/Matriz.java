@@ -29,5 +29,7 @@ public class Matriz {
 				System.out.println(nota + " | ");
 			}
 		}
+		
+		sc.close();
 	}
 }
